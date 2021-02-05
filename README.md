@@ -1,4 +1,4 @@
-# ColdBrew
+# ColdBrew Finance
 ## Caffeinate Your Investments and Personal Finance
 ### Market quotes and financial data infrastructure made easy
 
